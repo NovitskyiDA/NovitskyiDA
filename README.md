@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmytro  
+# 👋 Hi, I'm Dmytro 👽 
 
 🧑‍💻 **Full-stack Ruby on Rails Developer** with 10+ years of experience building scalable web applications.  
 ⚡ Passionate about clean code, performance optimization, and crafting smooth user experiences.  
