@@ -34,7 +34,7 @@
 - Nginx  
 
 ### ☁️ Cloud Providers  
-- AWS S3, EC2, RDS, CloudFront, Lambda etc.)  
+- AWS (S3, EC2, RDS, CloudFront, Lambda etc.)  
 
 ### 🐳 Virtualization Tools  
 - Docker  
